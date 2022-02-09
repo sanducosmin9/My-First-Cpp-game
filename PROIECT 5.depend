@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1579105240 source:c:\users\maria\desktop\pregatire\proiect 5\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<MMsystem.h>
+
